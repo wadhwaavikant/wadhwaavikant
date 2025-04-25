@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **wadhwaavikant/wadhwaavikant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,14 +16,14 @@ Here are some ideas to get you started:
 
 # Hi there 👋 I'm Avikant Wadhwa
 
-I'm a passionate **Software Engineer** and **Master's Student** at the University of Washington, Bothell, focusing on distributed computing, GPU programming, and high-performance simulations. I love exploring new technologies, solving complex problems, and contributing to open-source projects.
+I'm a **Software Engineer** and **Master's Student** at the University of Washington, Bothell, focusing on distributed computing, GPU programming, and high-performance simulations. I love exploring new technologies, solving complex problems, and contributing to open-source projects.
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on my Master's thesis on GPU optimization for large-scale simulations.
 - 🌱 I’m always learning new technologies and optimizing systems for high performance.
 - 👯 I’m looking to collaborate on **AI**, **high-performance computing**, and **GPU-accelerated projects**.
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](mailto:avikantwadhwa@gmail.com)
 
 ## 💻 Technologies & Tools
 
