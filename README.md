@@ -37,7 +37,7 @@ I'm a **Software Engineer** and **Master's Student Computer Science** at the Uni
 
 ## 🎓 Education
 
-- **Master of Science in Computer Science**, University of Washington, Bothell | May 2025
+- **Master of Science in Computer Science**, University of Washington, Bothell | Sep 2023 - May 2025
 - **Bachelor of Technology in Computer Science Engineering**, MSIT, GGSIPU | Aug 2017 - June 2021
 
 ## Other Important Things
